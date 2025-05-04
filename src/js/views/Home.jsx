@@ -6,7 +6,6 @@ import { Jumbotron } from "../component/Jumbotron.jsx";
 export const Home = () => {
     return(
         <div>
-            <h1>Holi Home</h1>
             <div className="text-center">
 			    <Jumbotron/>
                 <SectionCategory/>
